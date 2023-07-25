@@ -1,0 +1,17 @@
+{
+    "manifest_version": 3,
+    "name": "Bolded | Text first letter bolder",
+    "version": "0.001",
+    "content_scripts": [
+        {
+            "matches": [
+                "<all_urls>"
+            ],
+            "exclude_matches": [
+                "https://www.google.com/*"
+            ],
+            "js": ["content.js"],
+            "css": ["content.css"]
+        }
+    ]
+}

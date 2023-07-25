@@ -1,0 +1,20 @@
+/* CSS to apply bionic reading effect to the first letter of each word in each paragraph */
+p .bionic-reading {
+    font-weight: bold;
+}
+
+
+ul .bionic-reading {
+    font-weight: bold;
+}
+
+li .bionic-reading {
+    font-weight: bold;
+}
+
+
+.bionic-reading {
+    font-weight: bold;
+  }
+  
+/* CSS to apply bionic reading effect to the first letter of each word in each paragraph */
