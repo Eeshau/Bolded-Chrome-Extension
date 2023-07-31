@@ -5,6 +5,6 @@ Chrome extension that bolds the first few letters of words to make reading easie
 # Try it out
 Go to chrome://extensions/  
 Load unpacked and select this folder   
-Open any page other than Google, try Wikipedia   
+Open any page other than Google, say Wikipedia for example   
 
 <img width="1374" alt="onionwikiPM" src="https://github.com/Eeshau/Bolded-Chrome-Extension/assets/54783383/007c8826-a5c7-40e4-b1fc-3c63cbf48f2f">
